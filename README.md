@@ -7,3 +7,7 @@ This is a tool I use to post mockups for websites and Android applications.  It 
 
 [MockFlow](https://designcloud.mockflow.com)
 A very easy and free tool to put together wireframes and mockups for pc and smartphones.  
+
+[jQuery](https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js).
+
+[FontAwesome](http://fontawesome.io/)
