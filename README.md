@@ -11,3 +11,7 @@ A very easy and free tool to put together wireframes and mockups for pc and smar
 [jQuery](https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js).
 
 [FontAwesome](http://fontawesome.io/)
+
+[Google Fonts](https://fonts.google.com/)
+
+[Bootstrap](http://v4-alpha.getbootstrap.com/getting-started/download/)
