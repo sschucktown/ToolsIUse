@@ -15,3 +15,7 @@ A very easy and free tool to put together wireframes and mockups for pc and smar
 [Google Fonts](https://fonts.google.com/)
 
 [Bootstrap](http://v4-alpha.getbootstrap.com/getting-started/download/)
+
+[Ionic](https://ionicframework.com/)
+
+[Angular](https://angular.io/)
